@@ -64,5 +64,4 @@ You can test the RESTful endpoints using tools like Postman or curl. Ensure all 
 - Enhance validation with schemas and middleware.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
